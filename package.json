@@ -1,8 +1,8 @@
 {
-  "name": "eth-marketplace",
+  "name": "D-Edit",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
-  "author": "gregory@dappuniversity.com",
+  "description": "An Decentralize Image Editer",
+  "author": "usmanatcern@gmail.com",
   "dependencies": {
     "@toast-ui/react-image-editor": "^1.2.0",
     "babel-polyfill": "6.26.0",

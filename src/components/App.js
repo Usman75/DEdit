@@ -121,7 +121,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Meme-Of-The-Day
+            D-Edit
           </a>
           {/* <ul className="navbar-nav px-3" >
             <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">
@@ -141,7 +141,7 @@ class App extends Component {
                   <img src={`https://ipfs.infura.io/ipfs/${this.state.memeHash}`} alt='img' />
                 </a>
                 <p>&nbsp;</p>
-                <h2>Change Meem</h2>
+                <h2>Change Image</h2>
                 <form onSubmit={this.onSubmit} >
                   <input type='file' onChange={this.captureFile} />
                   <input type='submit' />
